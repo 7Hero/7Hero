@@ -1,5 +1,7 @@
-### Hi there 👋
 ![](http://3.250.78.79:3000/hero7.jpeg)
+
+### Hi there 👋
+My name is Popescu Vasile and I am the best programmer from Bd.Dacia 34/1
 <!--
 **7Hero/7Hero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
